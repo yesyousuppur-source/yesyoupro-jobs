@@ -1,6 +1,6 @@
 export const metadata = {
   title: "YesYouPro Jobs — AI Mock Interview & Skill Gap Analyzer",
-  description: "India ka pehla AI-powered job preparation platform. Mock interview practice aur skill gap analysis Hindi mein.",
+  description: "India ka pehla AI-powered job preparation platform.",
 };
 
 export default function RootLayout({ children }) {
